@@ -1,0 +1,11 @@
+version: 1.0
+name: UltraReports
+main: com.ultrahstudios.ultrareports.Main
+author: UltraHStudios
+
+
+commands:
+    report:
+      description: Report command
+      usage: /<command> (Startup error)
+      aliases: [report]

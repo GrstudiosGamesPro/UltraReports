@@ -1,0 +1,15 @@
+############################################################
+#                                                          #
+#           PLUGIN PROGRAMMED BY ULTRAHSTUDIOS             #
+#           YOUTUBE CHANNEL: https://bit.ly/3mo4uSZ        #
+#           FOLLOW ME IN YOUTUBE                           #
+
+ReportLimit: 5
+Command: 'ban %player% 5 hours ban with UltraReportsUTH'
+WarningMessageForPlayer: '&aYou have been reported by the player %reporter%'
+WarningMessageForReporter: '&5your report was sent successfully %player%'
+AlreadyReportMessage: '&cYou already report this player'
+ReportYourself: '&4You cannot report yourself'
+NoOnlinePlayer: '&aThis player not is online'
+NotPlayerSelect: '&aYou need mention player for report'
+AccountsReport:
